@@ -18,5 +18,8 @@ age processing, computer vision, information fusion and deep learning, particula
 
 ### **Jiaqi Wang**[Academic Homepage]()
 **Education**
+
 2022.09-2025.06   FAFU......Master's degree
 2025.09-up to now Beihang University Ph.D. Student
+
+**Research Interests**
