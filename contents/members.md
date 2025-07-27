@@ -1,5 +1,6 @@
 ### **Chunmian Lin**
 [Academic Homepage]()
+
 **Education**
 
 - 2019.09-2023.07 Beihang University Ph.D.
@@ -19,6 +20,7 @@ age processing, computer vision, information fusion and deep learning, particula
 
 ### **Jiaqi Wang**
 [Academic Homepage]()
+
 **Education**
 
 - 2022.09-2025.06   FAFU......Master's degree
