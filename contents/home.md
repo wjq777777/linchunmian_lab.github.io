@@ -1,6 +1,6 @@
 [![cmlin_lab](https://img.shields.io/badge/cmlin_lab-github-blue?logo=github)](https://github.com/wjq777777)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+团队介绍（团队负责人、成员大致情况）、由什么组织机构或者实验室组成、主要研究方向、主持和参与过哪些基金、获得过什么奖项.
 
 #### Email  
 <code>cmlin@buaa.edu.com</code>  
@@ -14,9 +14,7 @@ I'm currently pursuing a Master's degree in XX at the Department of XX, XX Unive
 • As a XX, represented my college as an outstanding student for a XX exchange program.  
 
 **Beihang University**, lecturer (XX – Up to now)  
-• GPA: XX/XX (top XX%)  
 
-#### Research Interests  
-My research interests include but not limited in autonomous driving, im
-age processing, computer vision, information fusion and deep learning, particularly their applications in intelligent transportation systems.
+
+
 
