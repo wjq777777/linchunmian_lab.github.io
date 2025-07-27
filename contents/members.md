@@ -19,7 +19,7 @@ age processing, computer vision, information fusion and deep learning, particula
 ......
 
 <div  align="center">    
- <img src="./fig/wjq.jpg" width = "150"  align=center />
+ <img src="/fig/wjq.jpg" width = "150"  align=center />
 </div>
 
 
