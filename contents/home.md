@@ -3,18 +3,19 @@
 I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
 
 #### Email  
-<code>XX@XX.XX</code>  
+<code>cmlin@buaa.edu.com</code>  
 <code>XX@XX.XX</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
+**Beihang University**, Ph.D. (2019.09 – 2023.07)  
 • GPA: XX/XX  
 
-**XX University**, Exchange student <br>  
+**Beihang University**, Postdoctoral Fellow (2023.07 – 2025.07)   
 • As a XX, represented my college as an outstanding student for a XX exchange program.  
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
+**Beihang University**, lecturer (XX – Up to now)  
 • GPA: XX/XX (top XX%)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+My research interests include but not limited in autonomous driving, im
+age processing, computer vision, information fusion and deep learning, particularly their applications in intelligent transportation systems.

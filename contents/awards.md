@@ -1,3 +1,5 @@
-- 校级一等奖学金, 2022.  
+- 2023年度COTA最佳博士论文奖（COTA Best Dissertation Awards）
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- 第九届中国科协青年人才托举工程,2023
+
+- ......
