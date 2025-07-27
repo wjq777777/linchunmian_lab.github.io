@@ -1,4 +1,4 @@
-- Lin C, Tian D, Duan X, et al. DA-RDD: Toward domain adaptive road damage detection across different countries[J]. IEEE Transactions on Intelligent Transportation Systems, 2022, 24(3): 3091-3103. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9954613)[[Code]](https://github.com/senli1073/LaNCor)
+- Lin C, Tian D, Duan X, et al. DA-RDD: Toward domain adaptive road damage detection across different countries[J]. IEEE Transactions on Intelligent Transportation Systems, 2022, 24(3): 3091-3103. [[Code]](https://github.com/senli1073/LaNCor)
 
 - Lin C, Tian D, Duan X, et al. CL3D: Camera-LiDAR 3D object detection with point feature enhancement and point-guided fusion[J]. IEEE Transactions on Intelligent Transportation Systems, 2022, 23(10): 18040-18050. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9726893)
 
