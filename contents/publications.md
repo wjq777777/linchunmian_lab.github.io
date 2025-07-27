@@ -1,6 +1,6 @@
-- Lin C, Tian D, Duan X, et al. DA-RDD: Toward domain adaptive road damage detection across different countries[J]. IEEE Transactions on Intelligent Transportation Systems, 2022, 24(3): 3091-3103.[[Paper]](https://ieeexplore.ieee.org/abstract/document/9954613)
+- Lin C, Tian D, Duan X, et al. DA-RDD: Toward domain adaptive road damage detection across different countries[J]. IEEE Transactions on Intelligent Transportation Systems, 2022, 24(3): 3091-3103. [[Paper]] (https://ieeexplore.ieee.org/abstract/document/9954613)
 
-- Lin C, Tian D, Duan X, et al. CL3D: Camera-LiDAR 3D object detection with point feature enhancement and point-guided fusion[J]. IEEE Transactions on Intelligent Transportation Systems, 2022, 23(10): 18040-18050.[[Paper]](https://ieeexplore.ieee.org/abstract/document/9726893)[[Code]]()
+- Lin C, Tian D, Duan X, et al. CL3D: Camera-LiDAR 3D object detection with point feature enhancement and point-guided fusion[J]. IEEE Transactions on Intelligent Transportation Systems, 2022, 23(10): 18040-18050. [[Paper]] (https://ieeexplore.ieee.org/abstract/document/9726893)
 
 - Lin C, Tian D, Duan X, et al. V2VFormer: Vehicle-to-vehicle cooperative perception with spatial-channel transformer[J]. IEEE Transactions on Intelligent Vehicles, 2024, 9(2): 3384-3395.
 
