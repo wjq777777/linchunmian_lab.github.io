@@ -28,7 +28,7 @@ age processing, computer vision, information fusion and deep learning, particula
 
 **Education**
 
-- 2022.09-2025.06   FAFU......Master's degree
+- 2022.09-2025.06   Fujian Agriculture and Forestry University Master's degree
 - 2025.09-up to now Beihang University Ph.D. Student
 
 **Research Interests**
