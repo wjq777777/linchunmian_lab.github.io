@@ -19,7 +19,7 @@ age processing, computer vision, information fusion and deep learning, particula
 ......
 
 
-<img src="/fig/wjq.jpg" alt="头像" style="width: 150px; height: auto;">
+<img src="https://github.com/wjq777777/linchunmian_lab.github.io/blob/main/fig/wjq.jpg" alt="头像" style="width: 150px; height: auto;">
 
 ### **Jiaqi Wang**
 [Academic Homepage]()
