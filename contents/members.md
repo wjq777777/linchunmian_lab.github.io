@@ -21,7 +21,7 @@ age processing, computer vision, information fusion and deep learning, particula
 ......
 
 
-<img src="/fig/wjq.png" alt="wjq头像" style="width: 150px; height: auto;">
+<img src="/fig/wjq.jpg" alt="wjq头像" style="width: 150px; height: auto;">
 
 ### **Jiaqi Wang**
 [Academic Homepage]()
