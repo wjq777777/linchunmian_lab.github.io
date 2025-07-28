@@ -1,4 +1,4 @@
-<img src="https://github.com/wjq777777/linchunmian_lab.github.io/blob/main/fig/lcm.jpg" alt="lcm头像" style="width: 150px; height: auto;">
+<img src="../fig/lcm.jpg" alt="lcm头像" style="width: 150px; height: auto;">
 
 ### **Chunmian Lin**
 [Academic Homepage]()
@@ -21,7 +21,7 @@ age processing, computer vision, information fusion and deep learning, particula
 ......
 
 
-<img src="https://github.com/wjq777777/linchunmian_lab.github.io/blob/main/fig/wjq.png" alt="wjq头像" style="width: 150px; height: auto;">
+<img src="../fig/wjq.png" alt="wjq头像" style="width: 150px; height: auto;">
 
 ### **Jiaqi Wang**
 [Academic Homepage]()
