@@ -20,10 +20,10 @@ age processing, computer vision, information fusion and deep learning, particula
 
 
 <!-- ![头像](/fig/wjq.jpg) -->
-<img src="/fig/wjq.jpg" alt="头像" style="width: 200px; height: auto;">
+<img src="/fig/wjq.jpg" alt="头像" style="width: 150px; height: auto;">
 
 ### **Jiaqi Wang**
-[Academic Homepage]()
+[Academic Homepage]()``
 
 **Education**
 
